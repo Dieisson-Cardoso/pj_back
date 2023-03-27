@@ -1,0 +1,12 @@
+POST http://localhost:3000/car
+Content-Type: application/json
+
+{
+"make": "fiat",
+"model": "golzinho",
+"year": 2022,
+"customerId": 1
+}
+
+####
+
